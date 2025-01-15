@@ -1,6 +1,6 @@
 ### Olá, boas vindas ao meu perfil do GitHub 👋
-• Meu nome é Gabriel Viana, mas pode me chamar de Gabs ;) <br>
-• Atualmente cursando o 3° ano do Novo Ensino médio <br>
+• Meu nome é Gabriel Viana, mas pode me chamar de Gabs <br>
+• Cursando Análise e Desenvolvimento de Sistemas na UniFil <br>
 • Aprendiz em TI na Conasa Infraestrutura 💙🚀 <br>
 
 ## Linguagens e Ferramentas
