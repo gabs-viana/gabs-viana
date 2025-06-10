@@ -1,7 +1,7 @@
 ### Olá, boas vindas ao meu perfil do GitHub 👋
 • Meu nome é Gabriel Viana, mas pode me chamar de Gabs <br>
 • Cursando Análise e Desenvolvimento de Sistemas na UniFil <br>
-• Aprendiz em TI na Conasa Infraestrutura 💙🚀 <br>
+• Assistente técnico em TI na Conasa Infraestrutura 💙🚀 <br>
 
 ## Linguagens e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
