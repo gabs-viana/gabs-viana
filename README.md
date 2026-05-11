@@ -20,7 +20,7 @@
 
 ## GitHub Stats ⚡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabs-viana&hide=contribs,prs)
+![Top Linguagens](https://github-readme-stats.vercel.app/api?username=gabs-viana&hide=contribs,prs)
 
 ## Contatos 📬
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriel.macviana@gmail.com)
