@@ -1,7 +1,7 @@
 ````md
 # Olá, boas-vindas ao meu perfil do GitHub 👋
 
-```js
+js
 const gabriel = {
   nickname: "Gabs",
   role: "Assistente Técnico de TI",
